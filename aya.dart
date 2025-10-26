@@ -1,1 +1,3 @@
-class Aya{}
+class Aya{
+  final String name;
+}
